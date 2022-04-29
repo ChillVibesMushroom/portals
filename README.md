@@ -1,3 +1,10 @@
+***THIS IS FOR EDUCATIONAL PURPOSES ONLY I DO NOT CLAIM ANY RESPONSIBILITY FOR WHAT YOU DO***
+***I BASED THESE PORTALS OFF OF MY FAVORITE FOODS***
+
+
+
+
+
 # portals
 Some captive portals for the WiFi Pineapple Mark Seven
 
