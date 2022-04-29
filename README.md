@@ -35,7 +35,7 @@ sudo mv cvmportals portals
 
 in your system
 
-scp -r pathtoportals root@pineapple ip:/root/portals 
+scp -r pathtoportals root@pineapple ip:/root 
 
 ***YOU NEED THE EVIL PORTAL MODULE INSTALLED ON YOUR PINEAPPLE TO USE THESE PORTAL***
 
